@@ -8,11 +8,12 @@
     width: 100%;
               }
  
+/*Tamaño y opciones de la cabecera*/
     #header {
     position: fixed;
     top: 0;
     width: 100%;
-    padding: 15px 20px;
+    padding: 19px 20px;
     background-color: #333;
     font-size: 20px;
     color: #FFFFFF;
@@ -41,8 +42,11 @@ header {
   z-index: 100;
 }
 
+
+
+/* Desplazamos el nav hacia la izquierda */
 nav {
-  float: left; /* Desplazamos el nav hacia la izquierda */
+  float: left;
 }
  
 nav ul {
@@ -50,18 +54,63 @@ nav ul {
   overflow: hidden; /* Limpiamos errores de float */
 }
  
+/*Tamaño del panel de opciones*/
 nav ul li {
   float: left;
   font-family: Arial, sans-serif;
   font-size: 16px;
 }
  
+/*Conf letras de panel de opciones*/
 nav ul li a {
   display: block; /* Convertimos los elementos a en elementos bloque para manipular el padding */
-  padding: 20px;
-  color: #fff;
+  padding: 20px; 
+  color: #fff; 
   text-decoration: none;
+   align-items: center;
+    
+  
 }
  
 nav ul li:hover {
-  background: #3ead47;
+  background: #3ead89;
+    }
+    
+/*Contenido debajo del menu principal*/
+section.Contenido {
+    padding-top: 60px
+}
+
+/*pie de pagina */
+ #footer {
+      background-color: #292C44;
+      position: absolute;
+      display: inline-block;
+      bottom: 0;
+      width: 100%;
+      height: 40px;
+      color: white;
+    }   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
