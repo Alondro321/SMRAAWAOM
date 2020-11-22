@@ -1,0 +1,32 @@
+
+/*Columnas bonicas*/
+#columnas{
+   column-count:4;
+   column-gap:20px;
+   
+    list-style: none;
+}
+
+/*Compatibilidad con todos los navegadores*/
+#columnas{
+   column-count:4;
+   column-gap:20px;
+   column-rule:4px double red;
+  
+    
+   -webkit-column-count:4;
+   -webkit-column-gap:20px;
+   -webkit-column-rule:4px double black;
+
+   -moz-column-count:4;
+   -moz-column-gap:20px;
+   -moz-column-rule:4px double black;
+
+   -o-column-count:4;
+   -o-column-gap:20px;
+   -o-column-rule:4px double black;
+
+   -ms-column-count:4;
+   -ms-column-gap:20px;
+   -ms-column-rule:4px double black;
+}
