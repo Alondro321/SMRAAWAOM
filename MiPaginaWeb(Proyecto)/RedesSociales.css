@@ -175,7 +175,7 @@ section.Contenido {
 
 /*pie de pagina */
  #footer {
-      background-color: #292C44;
+      background-color: red;
       position: absolute;
       display: inline-block;
       bottom: 0;
