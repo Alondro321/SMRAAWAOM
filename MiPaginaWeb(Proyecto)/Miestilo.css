@@ -175,16 +175,12 @@ ul.slider li:target {
   border-radius: 100%;
 }
 
-
-
-
-
-
-
-
-
-
-
+/*IMPORTANTE PARA QUE SE ADAPTE*/
+@media (max-width: 738px){
+    section.Contenido {
+        padding-top: 120px;
+    }
+}
 
 
 
