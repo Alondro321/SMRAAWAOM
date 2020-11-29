@@ -182,6 +182,16 @@ ul.slider li:target {
     }
 }
 
+/Moviles/
+@media (min-width:320px)  {  }
+@media (min-width:481px)  {  }
+/Tablets/
+@media (min-width:641px)  {  }
+@media (min-width:961px)  {  }
+/Ordenadores/
+@media (min-width:1025px) {  }
+@media (min-width:1281px) {  }
+
 
 
 
