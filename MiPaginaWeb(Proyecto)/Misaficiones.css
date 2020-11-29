@@ -100,6 +100,7 @@ section.Contenido {
 
 
 
+
 /*AQUI COMIENZA LA CONF DE ESTE APARTADO LO DE ARRIBA ES MENUS Y DEMÁS*/
 .titulo {
     padding-top: 60px;
@@ -112,17 +113,31 @@ section.Contenido {
     align-items: center;
 }
 .segundo {
- border-top: 2px solid #369;
-  border-bottom: 2px solid #369;
+ border-top: 2px solid #FA9400;
+  border-bottom: 2px solid #FA9400;
     align-items: center;
 }
 .tercero {
- border-top: 2px solid #369;
-  border-bottom: 2px solid #369;
+ border-top: 2px solid #FA9400;
+  border-bottom: 2px solid #FA9400;
     align-items: center;
 }
 .cuarto {
- border-top: 2px solid #369;
-  border-bottom: 2px solid #369;
+ border-top: 2px solid #FA9400;
+  border-bottom: 2px solid #FA9400;
     align-items: center;
 }
+
+
+.bici1  {
+     border: black 1px solid;
+}
+
+.bici2 {
+    border: black 1px solid;
+}
+
+.bici3 {
+    border: black 1px solid;
+}
+
