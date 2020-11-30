@@ -181,7 +181,14 @@ section.Contenido {
       display: inline-block;
       bottom: 0;
       width: 100%;
-      height: 40px;
       color: white;
     }   
-
+/Moviles/
+@media (min-width:320px)  {  }
+@media (min-width:481px)  {  }
+/Tablets/
+@media (min-width:641px)  {  }
+@media (min-width:961px)  {  }
+/Ordenadores/
+@media (min-width:1025px) {  }
+@media (min-width:1281px) {  }

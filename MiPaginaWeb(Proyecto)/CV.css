@@ -86,18 +86,14 @@ div h1 {
 
 
 /*pie de pagina */
- #footer p{
+ #footer {
       background-color: #292C44;
       position: static;
       display: inline-block;
       bottom: 0;
       width: 100%;
-      height: 40px;
       color: white;
-    }   
-#footer iframe {
-    background-color: #292C44
-}
+    }  
  
 
 /Moviles/
